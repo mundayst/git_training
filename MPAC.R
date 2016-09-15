@@ -7,7 +7,9 @@ data<-read.csv("validate-vars.txt", colClasses=column_classes)
 
 
 
+uabvaub;nb;ana;jbnofa;ba;ub oianboiamvfmvaoia;n oi n;naiu;b aiu buiq buavnliuafnbiuanb
 
+ajvblinba nu 
 
 
 
